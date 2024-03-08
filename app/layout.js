@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 
 export const metadata = {
   title: "next js 14",
-  description: "next js 14 cache course",
+  description: "next js 14 crash course",
 };
 
 const vazirFont = localFont({
